@@ -14,3 +14,5 @@ Si quereis tocar el server.js avisar o estar atentos cuando uno lo suba con el b
 
 ejemplo:
 si todas las rutas estan en el comentario y y lo sacas pa tu parte deberas tener cuidado por si la otra persona saca la ruta suya y mete la tuya en comentario, asi que si lo terminais sin sincronizar del completo al github avisar que lo vais hacer para tener en cuenta el server.js
+
+Curro: en package Carlo me añadio este apartado    "dev": "nodemon server.js"  asi que sin desde la terminal de node ponemos npm run dev es como nodemon server.js
