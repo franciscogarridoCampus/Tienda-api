@@ -1,10 +1,9 @@
 Proyecto de Optativa RA1-5. AEE  Mi primera API Rest con JSON.docx.pdf y somos:
-Francisco Garrido  --> hara Clientes
+Francisco Garrido  --> hara Clientes y Proveedores
 Adrian --> Productos y Categorias
 Sergio -->Carritos
 Marco --> Pedidos
 
-Proveedores Pendiente
 
 Para hacerlo desde casa hay que tener Node.js instalado y desde la terminal de esta instalar npm install
 
