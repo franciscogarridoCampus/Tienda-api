@@ -4,6 +4,16 @@ import express from "express";
 const app = express();
 // Middleware para poder procesar datos en formato JSON
 app.use(express.json());
+
+//Importar rutas
+/*
+app.use('/productos', require('./routes/productosRoutes'));
+app.use('/categorias', require('./routes/categoriasRoutes'));
+app.use('/clientes', require('./routes/clientesRoutes'));
+app.use('/pedidos', require('./routes/pedidosRoutes'));
+app.use('/carritos', require('./routes/carritosRoutes'));
+app.use('/proveedores', require('./routes/proveedoresRoutes'));
+*/
 // Definir una ruta básica (endpoint) de prueba
 app.get("/", (req, res) => {
 res.send("🚀 Servidor Express funcionando correctamente");
