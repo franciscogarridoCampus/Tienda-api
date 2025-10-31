@@ -8,7 +8,7 @@ Proveedores Pendiente
 
 Para hacerlo desde casa hay que tener Node.js instalado y desde la terminal de esta instalar npm install
 
-Hay que dejar el server.js como estaba y solo clonar el repositorio para vosotros y luego las entidades que habeis hecho subir solo la parte de controllers, data, routes y services(dejando server.js como estaba en el inicio) y todo esto para juntarlo de una
+
 
 Si quereis tocar el server.js avisar o estar atentos cuando uno lo suba con el boton de confirmacion(pull) para que si ellos lo han terminado en la parte de abajo graph hay una flechita hacia abajo señalando un circulo para incorporar los cambios a vuestro clone, pero tener en cuenta que puede generar un conflicto:
 
