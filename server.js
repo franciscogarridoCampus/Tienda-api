@@ -6,10 +6,8 @@ const app = express();
 app.use(express.json());
 
 app.use('/productos', require('./routes/productosRoutes'));
-//app.use('/categorias', require('./routes/categoriasRoutes'));
 //Importar rutas
 /*
-app.use('/productos', require('./routes/productosRoutes'));
 app.use('/categorias', require('./routes/categoriasRoutes'));
 app.use('/clientes', require('./routes/clientesRoutes'));
 app.use('/pedidos', require('./routes/pedidosRoutes'));
